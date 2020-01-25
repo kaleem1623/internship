@@ -1,0 +1,55 @@
+
+#header{
+	background-color: #bd4024;
+	height: 3em;
+    width: 100%;
+}
+
+.fa{
+	float: right;
+	margin-right: 30px;
+	color: white;
+
+}
+.logo{
+	height: 25px;
+	width: 25px;
+    margin-left: 15px;
+
+}
+.date{
+	float: right;
+	color: white;
+	margin-right: 3rem;
+	text-decoration:none;
+}
+.text{
+	font-family: 'Varela Round', sans-serif;
+
+}
+.text2{
+	font-family: 'Fjalla One', sans-serif;
+
+}
+.space{
+	margin-top: 2rem;
+	margin-right: 3rem;
+}
+.color{
+    color: #000000;
+    font-family: 'Varela Round', sans-serif;
+    text-decoration: none;
+
+}
+.side1{
+	margin-top: 1rem;
+}
+.set{
+
+    font-size: 18px;
+    color:#0062cc;
+    float: right;
+    margin: 10 20 10 10;
+}
+
+
